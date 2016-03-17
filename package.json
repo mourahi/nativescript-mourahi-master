@@ -1,0 +1,12 @@
+{
+  "name": "nativescript-mourahi",
+  "version": "0.0.1",
+  "description": "un exercice",
+  "main": "mourahi.js",
+  "nativescript": {
+    "platforms": {
+      "ios": "1.1.2",
+      "android": "1.1.0"
+    }
+  }
+}
